@@ -1,0 +1,33 @@
+{
+  "name": "WDchocopie Extensions",
+  "badgeLabel": "WDC",
+  "signingKey": "501d9c7e7c530af22bc6dc2fa970c2a269474a91c64c0589a253c4d258d35515",
+  "contact": {
+    "website": "https://github.com/wdchocopie/mihon-extensions"
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "TruyenQQ VN",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.truyenqqvn",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/apk/tachiyomi-vi.truyenqqvn-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/icon/vi.truyenqqvn.png",
+          "jarUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/jar/tachiyomi-vi.truyenqqvn-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "5606661657341898331",
+            "name": "TruyenQQ VN",
+            "language": "vi",
+            "homeUrl": "https://truyenqq.com.vn"
+          }
+        ]
+      }
+    ]
+  }
+}
