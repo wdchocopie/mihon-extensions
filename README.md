@@ -4,11 +4,13 @@ Kho extension [Mihon](https://mihon.app) tự host.
 
 ## Cách thêm vào Mihon
 
-More → Browse → Extension repos → thêm URL:
+More → Settings → Browse → **Extension stores** → Add:
 
 ```
-https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main
+https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/repo.json
 ```
+
+> URL phải trỏ thẳng tới `repo.json`. Nhập URL thư mục sẽ báo `HTTP error 404`.
 
 ## Extension hiện có
 
