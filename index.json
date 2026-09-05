@@ -8,6 +8,45 @@
   "extensionList": {
     "extensions": [
       {
+        "name": "NHentai",
+        "packageName": "eu.kanade.tachiyomi.extension.all.nhentai",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/apk/tachiyomi-all.nhentai-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/icon/all.nhentai.png",
+          "jarUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/jar/tachiyomi-all.nhentai-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "3122156392225024195",
+            "name": "NHentai",
+            "language": "en",
+            "homeUrl": "https://nhentai.net"
+          },
+          {
+            "id": "4726175775739752699",
+            "name": "NHentai",
+            "language": "ja",
+            "homeUrl": "https://nhentai.net"
+          },
+          {
+            "id": "2203215402871965477",
+            "name": "NHentai",
+            "language": "zh",
+            "homeUrl": "https://nhentai.net"
+          },
+          {
+            "id": "1167260633771718851",
+            "name": "NHentai",
+            "language": "all",
+            "homeUrl": "https://nhentai.net"
+          }
+        ]
+      },
+      {
         "name": "TruyenQQ VN",
         "packageName": "eu.kanade.tachiyomi.extension.vi.truyenqqvn",
         "resources": {
@@ -16,7 +55,7 @@
           "jarUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/jar/tachiyomi-vi.truyenqqvn-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "1",
+        "versionCode": "106001",
         "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
