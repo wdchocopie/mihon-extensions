@@ -50,13 +50,13 @@
         "name": "TruyenQQ VN",
         "packageName": "eu.kanade.tachiyomi.extension.vi.truyenqqvn",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/apk/tachiyomi-vi.truyenqqvn-v1.6.1.apk",
+          "apkUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/apk/tachiyomi-vi.truyenqqvn-v1.6.2.apk",
           "iconUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/icon/vi.truyenqqvn.png",
-          "jarUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/jar/tachiyomi-vi.truyenqqvn-v1.6.1.jar"
+          "jarUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/jar/tachiyomi-vi.truyenqqvn-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
