@@ -42,7 +42,7 @@ Mihon hides sources whose language you have not enabled, and Vietnamese is off b
 
 | Extension | Language | Version | Site |
 |---|---|---|---|
-| NHentai | English, Japanese, Chinese, All | 1.6.5 | https://nhentai.net |
+| NHentai | English, Japanese, Chinese, All | 1.6.6 | https://nhentai.net |
 | TruyenQQ VN | Vietnamese | 1.6.3 | https://truyenqq.com.vn |
 
 NHentai is marked 18+, so Mihon hides it until **More → Settings → Browse → NSFW (18+) sources** is enabled. That toggle needs an app restart to take effect.

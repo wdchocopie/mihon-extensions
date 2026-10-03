@@ -42,7 +42,7 @@ Mihon ẩn những nguồn thuộc ngôn ngữ bạn chưa bật, mà tiếng Vi
 
 | Extension | Ngôn ngữ | Phiên bản | Website |
 |---|---|---|---|
-| NHentai | Anh, Nhật, Trung, Tất cả | 1.6.5 | https://nhentai.net |
+| NHentai | Anh, Nhật, Trung, Tất cả | 1.6.6 | https://nhentai.net |
 | TruyenQQ VN | Tiếng Việt | 1.6.3 | https://truyenqq.com.vn |
 
 NHentai bị đánh dấu 18+ nên Mihon ẩn đi cho tới khi bạn bật **More → Settings → Browse → NSFW (18+) sources**. Bật xong phải mở lại ứng dụng mới có hiệu lực.
