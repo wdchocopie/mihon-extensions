@@ -11,13 +11,13 @@
         "name": "NHentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.nhentai",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/apk/tachiyomi-all.nhentai-v1.6.4.apk",
+          "apkUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/apk/tachiyomi-all.nhentai-v1.6.5.apk",
           "iconUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/icon/all.nhentai.png",
-          "jarUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/jar/tachiyomi-all.nhentai-v1.6.4.jar"
+          "jarUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/jar/tachiyomi-all.nhentai-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -50,13 +50,13 @@
         "name": "TruyenQQ VN",
         "packageName": "eu.kanade.tachiyomi.extension.vi.truyenqqvn",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/apk/tachiyomi-vi.truyenqqvn-v1.6.2.apk",
+          "apkUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/apk/tachiyomi-vi.truyenqqvn-v1.6.3.apk",
           "iconUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/icon/vi.truyenqqvn.png",
-          "jarUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/jar/tachiyomi-vi.truyenqqvn-v1.6.2.jar"
+          "jarUrl": "https://raw.githubusercontent.com/wdchocopie/mihon-extensions/main/jar/tachiyomi-vi.truyenqqvn-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
